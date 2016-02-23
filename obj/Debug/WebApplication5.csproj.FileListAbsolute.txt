@@ -1,0 +1,199 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Antlr3.Runtime.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Providers.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebGrease.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Optimization.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Antlr3.Runtime.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Providers.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WebApplication5\WebApplication5\bin\AjaxControlToolkit.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\csc.exe
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\vbc.exe
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\WebApplication5.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Antlr3.Runtime.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\EntityFramework.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Newtonsoft.Json.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Owin.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\System.Web.Optimization.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\System.Web.Providers.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\WebGrease.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\System.Web.Optimization.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Antlr3.Runtime.pdb
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Newtonsoft.Json.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\EntityFramework.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\System.Web.Providers.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projetos_Web\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+C:\Projetos_Web\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Projetos_Web\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\WebApplication5.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\WebApplication5.pdb
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Owin.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\System.Web.Providers.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\Administrator\Desktop\Projeto\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
